@@ -1,5 +1,6 @@
 header {
     padding-block: 32px;
+    font: var(--text-md);
 }
 
 header #profile {
@@ -26,10 +27,6 @@ header #profile h1 {
     margin-bottom: 8px;
 }
 
-header #profile p {
-    font: var(--text-md);
-
-}
 
 #info {
     list-style: none;
